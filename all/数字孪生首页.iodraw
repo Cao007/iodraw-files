@@ -41,7 +41,7 @@
           <mxGeometry x="285" y="300" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ht_bh-Sp9GNc9XkGLDO3-16" value="表格（筛选+分页）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="180" width="160" height="200" as="geometry" />
+          <mxGeometry x="470" y="180" width="160" height="180" as="geometry" />
         </mxCell>
         <mxCell id="ht_bh-Sp9GNc9XkGLDO3-17" value="&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-weight: bold;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;3.7WMS库存查询&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="490" y="140" width="100" height="30" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry x="470" y="430" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="ht_bh-Sp9GNc9XkGLDO3-19" value="&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-weight: bold;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;3.8库位列表查询&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="485" y="375" width="110" height="30" as="geometry" />
+          <mxGeometry x="485" y="390" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ht_bh-Sp9GNc9XkGLDO3-20" value="" style="shape=lineEllipse;line=vertical;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="360" width="45" height="45" as="geometry" />
