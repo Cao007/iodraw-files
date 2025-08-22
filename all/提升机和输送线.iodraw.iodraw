@@ -74,7 +74,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VuyT9RyWYR533Z4bD2kE-28" value="有货" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="280" y="430" width="80" height="70" as="geometry" />
+          <mxGeometry x="85" y="420" width="80" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
