@@ -97,7 +97,7 @@
         <mxCell id="VuyT9RyWYR533Z4bD2kE-32" value="报错信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="630" width="160" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="VuyT9RyWYR533Z4bD2kE-34" value="有货" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="VuyT9RyWYR533Z4bD2kE-34" value="完成状态" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="85" y="360" width="80" height="70" as="geometry" />
         </mxCell>
       </root>
