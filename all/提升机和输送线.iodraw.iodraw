@@ -123,6 +123,9 @@
         <mxCell id="VuyT9RyWYR533Z4bD2kE-48" value="请求接口后，&lt;br&gt;货物出现在出库口" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="700" y="465" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="VuyT9RyWYR533Z4bD2kE-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.019;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VuyT9RyWYR533Z4bD2kE-40" target="VuyT9RyWYR533Z4bD2kE-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
