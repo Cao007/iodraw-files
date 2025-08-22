@@ -49,6 +49,9 @@
             <mxPoint x="350" y="418" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="VuyT9RyWYR533Z4bD2kE-21" value="输送线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="368" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
