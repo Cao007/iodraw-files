@@ -124,16 +124,16 @@
           <mxGeometry x="680" y="462" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VuyT9RyWYR533Z4bD2kE-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="155" y="10" width="40" height="40" as="geometry" />
+          <mxGeometry x="160" y="40" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VuyT9RyWYR533Z4bD2kE-51" value="图标1：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="85" y="15" width="70" height="30" as="geometry" />
+          <mxGeometry x="90" y="45" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VuyT9RyWYR533Z4bD2kE-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="10" width="40" height="40" as="geometry" />
+          <mxGeometry x="315" y="40" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VuyT9RyWYR533Z4bD2kE-54" value="图标2信息：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="230" y="15" width="90" height="30" as="geometry" />
+        <mxCell id="VuyT9RyWYR533Z4bD2kE-54" value="图标2：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="245" y="45" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
