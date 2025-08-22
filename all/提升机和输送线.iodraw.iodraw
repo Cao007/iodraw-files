@@ -91,7 +91,7 @@
           <mxGeometry x="125" y="218" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="VuyT9RyWYR533Z4bD2kE-35" value="完成后消失动画" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="240" y="238" width="110" height="30" as="geometry" />
+          <mxGeometry x="270" y="238" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VuyT9RyWYR533Z4bD2kE-36" value="(移动动画)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="200" y="555" width="80" height="30" as="geometry" />
