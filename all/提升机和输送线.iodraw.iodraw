@@ -5,28 +5,28 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="LmoA5nlXBczSG3bU6EpV-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="207.5" y="150" width="150" height="310" as="geometry" />
+          <mxGeometry x="190" y="150" width="150" height="310" as="geometry" />
         </mxCell>
         <mxCell id="VuyT9RyWYR533Z4bD2kE-4" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="LmoA5nlXBczSG3bU6EpV-1" target="LmoA5nlXBczSG3bU6EpV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="547.5" y="370" as="sourcePoint" />
-            <mxPoint x="597.5" y="320" as="targetPoint" />
+            <mxPoint x="530" y="370" as="sourcePoint" />
+            <mxPoint x="580" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VuyT9RyWYR533Z4bD2kE-5" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="207.5" y="390" as="sourcePoint" />
-            <mxPoint x="357.5" y="390" as="targetPoint" />
+            <mxPoint x="190" y="390" as="sourcePoint" />
+            <mxPoint x="340" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VuyT9RyWYR533Z4bD2kE-6" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="207.5" y="304.5" as="sourcePoint" />
-            <mxPoint x="357.5" y="304.5" as="targetPoint" />
+            <mxPoint x="190" y="304.5" as="sourcePoint" />
+            <mxPoint x="340" y="304.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VuyT9RyWYR533Z4bD2kE-7" value="提升机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="232.5" y="195" width="100" height="40" as="geometry" />
+          <mxGeometry x="215" y="195" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VuyT9RyWYR533Z4bD2kE-8" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="470" y="287" width="70" height="550" as="geometry" />
@@ -74,7 +74,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VuyT9RyWYR533Z4bD2kE-28" value="有货" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="242.5" y="390" width="80" height="70" as="geometry" />
+          <mxGeometry x="225" y="390" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="VuyT9RyWYR533Z4bD2kE-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VuyT9RyWYR533Z4bD2kE-31">
           <mxGeometry relative="1" as="geometry">
@@ -85,10 +85,10 @@
           <mxGeometry x="460" y="527" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="VuyT9RyWYR533Z4bD2kE-34" value="完成状态" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="242.5" y="228" width="80" height="70" as="geometry" />
+          <mxGeometry x="225" y="228" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="VuyT9RyWYR533Z4bD2kE-35" value="完成后消失动画" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="362.5" y="248" width="110" height="30" as="geometry" />
+          <mxGeometry x="345" y="248" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VuyT9RyWYR533Z4bD2kE-36" value="移动动画" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="305" y="493" width="70" height="30" as="geometry" />
