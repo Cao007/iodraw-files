@@ -130,7 +130,7 @@
           <mxGeometry x="240" y="310" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="VuyT9RyWYR533Z4bD2kE-58" value="出库口" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="610" y="457" width="80" height="70" as="geometry" />
+          <mxGeometry x="680" y="520" width="80" height="67" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
