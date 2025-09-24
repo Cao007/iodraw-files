@@ -37,8 +37,8 @@
         <mxCell id="GipY-srAr-Eh2sCNBlGW-12" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="320" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GipY-srAr-Eh2sCNBlGW-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="370" width="120" height="60" as="geometry" />
+        <mxCell id="GipY-srAr-Eh2sCNBlGW-13" value="r1视角" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="370" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
