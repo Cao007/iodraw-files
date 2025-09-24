@@ -8,7 +8,7 @@
           <mxGeometry x="30" y="220" width="160" height="230" as="geometry" />
         </mxCell>
         <mxCell id="GipY-srAr-Eh2sCNBlGW-2" value="车辆列表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="190" width="60" height="30" as="geometry" />
+          <mxGeometry x="80" y="180" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GipY-srAr-Eh2sCNBlGW-3" value="r1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="250" width="110" height="30" as="geometry" />
@@ -45,6 +45,9 @@
         </mxCell>
         <mxCell id="GipY-srAr-Eh2sCNBlGW-16" value="r1灯牌" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="430" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GipY-srAr-Eh2sCNBlGW-17" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="180" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
