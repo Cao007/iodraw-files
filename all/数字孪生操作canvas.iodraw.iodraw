@@ -40,7 +40,7 @@
         <mxCell id="GipY-srAr-Eh2sCNBlGW-12" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="295" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GipY-srAr-Eh2sCNBlGW-13" value="r1视角" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GipY-srAr-Eh2sCNBlGW-13" value="r1跟随视角" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="345" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GipY-srAr-Eh2sCNBlGW-14" value="r1路径高亮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
