@@ -43,7 +43,7 @@
         <mxCell id="GipY-srAr-Eh2sCNBlGW-14" value="r1路径" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="370" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GipY-srAr-Eh2sCNBlGW-16" value="r1视角" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GipY-srAr-Eh2sCNBlGW-16" value="r1灯牌" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="420" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
