@@ -5,19 +5,19 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="GipY-srAr-Eh2sCNBlGW-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="210" width="160" height="230" as="geometry" />
+          <mxGeometry x="30" y="220" width="160" height="230" as="geometry" />
         </mxCell>
         <mxCell id="GipY-srAr-Eh2sCNBlGW-2" value="车辆列表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="180" width="60" height="30" as="geometry" />
+          <mxGeometry x="70" y="190" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GipY-srAr-Eh2sCNBlGW-3" value="r1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="240" width="110" height="30" as="geometry" />
+          <mxGeometry x="50" y="250" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GipY-srAr-Eh2sCNBlGW-5" value="r3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="360" width="110" height="30" as="geometry" />
+          <mxGeometry x="50" y="370" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GipY-srAr-Eh2sCNBlGW-6" value="r2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="300" width="110" height="30" as="geometry" />
+          <mxGeometry x="50" y="310" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GipY-srAr-Eh2sCNBlGW-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="210" width="190" height="280" as="geometry" />
