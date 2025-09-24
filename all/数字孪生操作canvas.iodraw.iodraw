@@ -46,8 +46,8 @@
         <mxCell id="GipY-srAr-Eh2sCNBlGW-16" value="r1灯牌" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="430" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GipY-srAr-Eh2sCNBlGW-17" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="345" y="180" width="60" height="30" as="geometry" />
+        <mxCell id="GipY-srAr-Eh2sCNBlGW-17" value="r1车辆操作面板" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="180" width="85" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
